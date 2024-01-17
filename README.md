@@ -39,28 +39,36 @@ Data Validation: Checked the dataset for any other inconsistencies or issues tha
 3. Data Connection in Tableau Public
 Importing Data: Connected the cleaned dataset to Tableau Public for visualization and analysis.
 Data Type Verification: Ensured that Tableau correctly identified data types for each column after import.
+
+
 4. Visualization and Analysis in Tableau
+
 Global Heat Map:
 
 Objective: To visualize the geographical distribution of various causes of death.
 Approach: Utilized geographical mapping features in Tableau to create a heat map, highlighting regions based on mortality rates from different causes.
+
 Time Series Analysis of Death Causes:
 
 Objective: To analyze trends in causes of death over time.
 Visualization: Created line graphs to represent the temporal trends in mortality due to various causes.
+
 Comparative Cause of Death Analysis by Country:
 
 Objective: To compare how different countries fare in terms of various causes of death.
 Features: Incorporated a filter for causes of death, allowing for a dynamic comparison across different nations.
 Visualization: Employed comparative bar charts or similar visuals to showcase this comparison.
+
 Mortality Rate Pie Chart:
 
 Objective: To display the proportional breakdown of different causes of death within individual countries.
 Visualization: Constructed pie charts to represent the mortality rate distribution per cause within selected countries.
+
 Tree Map of Global Death Proportions:
 
 Objective: To provide a global overview of death proportions by cause.
 Visualization: Created a tree map to depict the part-to-whole relationships of various causes of death globally.
+
 5. Dashboard Creation
 Integration: Combined all individual visualizations into a coherent and interactive Tableau dashboard.
 Interactivity and Design: Ensured the dashboard was user-friendly, with interactive elements like filters and drill-down options for deeper analysis.
@@ -76,23 +84,29 @@ Data Question:
 Primary Question: What are the leading causes of death globally, how do they vary across different countries, and what trends can be observed over time?
 Objective: To identify and analyze global mortality patterns, understand regional differences, and uncover temporal trends in causes of death.
 Visualizations Created and Rationale:
+
 Global Heat Map
 
 Purpose: To visually represent the geographical distribution of various causes of death.
 Why: This visualization allows for a quick, intuitive understanding of how different causes of death are distributed around the world, highlighting regions with higher mortality rates for specific causes.
+
 Time Series Analysis of Death Causes
 
 Purpose: To explore trends in causes of death over time.
 Why: Time series analysis is crucial to understand whether certain causes of death are increasing or decreasing globally, indicating shifts in global health trends.
-Comparative Cause of Death Analysis by Country
+
+
+Comparative Cause of Death Analysis by Country:
 ![image](https://github.com/TyShuro/Tableau_Project/assets/115968439/37bd4c0b-a110-4538-9a4e-20c0f13a662b)
 
 Purpose: To compare the prevalence of different causes of death across countries.
 Why: This comparative view provides insights into country-specific health challenges and allows for the identification of unique mortality profiles.
+
 Mortality Rate Pie Chart
 
 Purpose: To show the proportional distribution of causes of death within individual countries.
 Why: Pie charts effectively communicate part-to-whole relationships, making it easier to understand the dominant causes of death in a specific country.
+
 Tree Map of Global Death Proportions
 
 Purpose: To provide a summarized view of global mortality by cause.
