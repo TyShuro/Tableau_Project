@@ -5,7 +5,7 @@ Project Description:
 Title: Analyzing Global Mortality: Insights from the 'Causes of Death' Data
 
 Overview:
-This project delves into the comprehensive 'Causes of Death' dataset, sourced from Our World In Data and based on the Global Burden of Disease study published in The Lancet. The dataset encompasses detailed records of mortality causes across various countries and regions for the year 2017. Through this project, we aim to uncover patterns, trends, and anomalies in global mortality data, exploring the predominant causes of death worldwide and their variations across different geographies and over time.
+This project delves into the comprehensive 'Causes of Death' dataset, sourced from Our World In Data and based on the Global Burden of Disease study published in The Lancet. The dataset encompasses detailed records of mortality causes across various countries and regions. Through this project, we aim to uncover patterns, trends, and anomalies in global mortality data, exploring the predominant causes of death worldwide and their variations across different geographies and over time.
 
 Project Goals:
 1. Data Understanding and Exploration:
