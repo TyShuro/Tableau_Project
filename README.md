@@ -31,7 +31,7 @@ Explore any socio-economic or geographical correlations with the observed mortal
 
 1. Data Acquisition
 Source: The dataset was downloaded from the 'Our World in Data' website, specifically the 'Causes of Death' data.
-Content: This dataset provides comprehensive information on various causes of death across different countries and regions for the year 2017.
+Content: This dataset provides comprehensive information on various causes of death across different countries and regions.
 2. Data Cleaning and Preparation
 Removing Duplicate Categories: Identified and removed duplicate entries where 'America' and 'USA' were overlapping.
 Eliminating Empty Rows: Deleted rows that contained no information in the 'Death Numbers' column to ensure data integrity and accuracy.
