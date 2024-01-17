@@ -66,9 +66,44 @@ Integration: Combined all individual visualizations into a coherent and interact
 Interactivity and Design: Ensured the dashboard was user-friendly, with interactive elements like filters and drill-down options for deeper analysis.
 
 ## Results
+Option Chosen:
+Option 2
+Dataset Selected:
+Dataset Name: Causes of Death - Our World In Data
+Source: Our World in Data, based on the Global Burden of Disease study published in The Lancet.
+Content Description: The dataset includes comprehensive records of various causes of death across countries and regions for the year 2017.
+Data Question:
+Primary Question: What are the leading causes of death globally, how do they vary across different countries, and what trends can be observed over time?
+Objective: To identify and analyze global mortality patterns, understand regional differences, and uncover temporal trends in causes of death.
+Visualizations Created and Rationale:
+Global Heat Map
+
+Purpose: To visually represent the geographical distribution of various causes of death.
+Why: This visualization allows for a quick, intuitive understanding of how different causes of death are distributed around the world, highlighting regions with higher mortality rates for specific causes.
+Time Series Analysis of Death Causes
+
+Purpose: To explore trends in causes of death over time.
+Why: Time series analysis is crucial to understand whether certain causes of death are increasing or decreasing globally, indicating shifts in global health trends.
+Comparative Cause of Death Analysis by Country
+
+Purpose: To compare the prevalence of different causes of death across countries.
+Why: This comparative view provides insights into country-specific health challenges and allows for the identification of unique mortality profiles.
+Mortality Rate Pie Chart
+
+Purpose: To show the proportional distribution of causes of death within individual countries.
+Why: Pie charts effectively communicate part-to-whole relationships, making it easier to understand the dominant causes of death in a specific country.
+Tree Map of Global Death Proportions
+
+Purpose: To provide a summarized view of global mortality by cause.
+Why: Tree maps are excellent for displaying hierarchical data and visually depicting how different causes contribute to global mortality.
+
 (Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
 
 ## Challenges 
+Data Complexity and Volume:
+![image](https://github.com/TyShuro/Tableau_Project/assets/115968439/82b5d3ad-a4a2-457a-b049-c83f43dcb36f)
+
+
 (discuss challenges you faced in the project)
 
 ## Future Goals
