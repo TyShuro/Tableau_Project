@@ -85,6 +85,7 @@ Time Series Analysis of Death Causes
 Purpose: To explore trends in causes of death over time.
 Why: Time series analysis is crucial to understand whether certain causes of death are increasing or decreasing globally, indicating shifts in global health trends.
 Comparative Cause of Death Analysis by Country
+![image](https://github.com/TyShuro/Tableau_Project/assets/115968439/37bd4c0b-a110-4538-9a4e-20c0f13a662b)
 
 Purpose: To compare the prevalence of different causes of death across countries.
 Why: This comparative view provides insights into country-specific health challenges and allows for the identification of unique mortality profiles.
@@ -101,10 +102,13 @@ Why: Tree maps are excellent for displaying hierarchical data and visually depic
 
 ## Challenges 
 Data Complexity and Volume:
-![image](https://github.com/TyShuro/Tableau_Project/assets/115968439/82b5d3ad-a4a2-457a-b049-c83f43dcb36f)
+Handling and making sense of a vast, multi-faceted dataset
 
-
-(discuss challenges you faced in the project)
+Data Cleaning and Integrity: 
+Ensuring accuracy by meticulously cleaning and validating data (e.g., resolving duplicates, handling missing values).
 
 ## Future Goals
-(what would you do if you had more time?)
+Incorporating Additional Data: Plans to integrate more datasets, such as socio-economic factors, healthcare access, and lifestyle choices, for a more comprehensive analysis.
+Predictive Modeling: Future goal to use the data for predictive modeling to forecast trends in global health and mortality.
+Collaboration and Sharing: Aspirations to collaborate with public health experts and policymakers, sharing insights for informed decision-making.
+
