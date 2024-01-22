@@ -52,10 +52,14 @@ Approach: Utilized geographical mapping features in Tableau to create a heat map
 
 Time Series Analysis of Death Causes:
 
+https://public.tableau.com/app/profile/tai.shuro/viz/Time_Series_Analysis_of_Deaths_twbx/TimeSeriesAnalysisofDeathCauses?publish=yes
+
 Objective: To analyze trends in causes of death over time.
 Visualization: Created line graphs to represent the temporal trends in mortality due to various causes.
 
 Comparative Cause of Death Analysis by Country:
+
+https://public.tableau.com/app/profile/tai.shuro/viz/Comparitive_Cause_Of_Death_twbx/ComparativeCauseofDeathBetweenCountries?publish=yes
 
 Objective: To compare how different countries fare in terms of various causes of death.
 Features: Incorporated a filter for causes of death, allowing for a dynamic comparison across different nations.
@@ -63,10 +67,14 @@ Visualization: Employed comparative bar charts or similar visuals to showcase th
 
 Mortality Rate Pie Chart:
 
+https://public.tableau.com/app/profile/tai.shuro/viz/Mortality_Rate_Pie_Chart_twbx/MortalityRatePieChartforIndividualCountries?publish=yes
+
 Objective: To display the proportional breakdown of different causes of death within individual countries.
 Visualization: Constructed pie charts to represent the mortality rate distribution per cause within selected countries.
 
 Tree Map of Global Death Proportions:
+
+https://public.tableau.com/app/profile/tai.shuro/viz/Propotion_of_Cause_of_Deaths_twbx/PropotionofCauseofDeathGloballyByYear?publish=yes
 
 Objective: To provide a global overview of death proportions by cause.
 Visualization: Created a tree map to depict the part-to-whole relationships of various causes of death globally.
@@ -74,6 +82,8 @@ Visualization: Created a tree map to depict the part-to-whole relationships of v
 5. Dashboard Creation
 Integration: Combined all individual visualizations into a coherent and interactive Tableau dashboard.
 Interactivity and Design: Ensured the dashboard was user-friendly, with interactive elements like filters and drill-down options for deeper analysis.
+
+https://public.tableau.com/app/profile/tai.shuro/viz/Dashboard_Visual_twbx/Dashboard1?publish=yes
 
 ## Results
 Option Chosen:
