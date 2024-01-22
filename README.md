@@ -45,6 +45,8 @@ Data Type Verification: Ensured that Tableau correctly identified data types for
 
 Global Heat Map:
 
+https://public.tableau.com/app/profile/tai.shuro/viz/Global_Heat_Map_twbx/GlobalHeatMapofSpecificDeaths?publish=yes
+
 Objective: To visualize the geographical distribution of various causes of death.
 Approach: Utilized geographical mapping features in Tableau to create a heat map, highlighting regions based on mortality rates from different causes.
 
